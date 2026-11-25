@@ -4,7 +4,7 @@ compatibility_date = "2024-05-23"
 minify = false
 
 
-account_id = "c94c08c1fa3eb249700c89571fc3a332"
+account_id = "6b630081a0ca6b33f285935bb08843f5"
 workers_dev = true
 
 [[kv_namespaces]]
